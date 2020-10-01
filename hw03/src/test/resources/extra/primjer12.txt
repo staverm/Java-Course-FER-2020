@@ -1,0 +1,4 @@
+Text{}$$} still\{$ text\\ {$FOR var 3 2 var2$}
+{$FOR i 1 2$} some_Text!? {$= @func 23.3 var_name3 * + "String \" \\escape\\ \" "$} TEXT
+{$END$}{$END$}
+SomeMoreText

@@ -1,0 +1,5 @@
+Very\\\\\{\{ Compl$ex *?_{$FOR year 1 las_23 "string"$}
+Inside\{ \\ FOR ={$=  year 1 las_23 "string" 23.23 -2.3 -abcd "\\stringEscaping\"O\"\\"$}
+Inside2\{ \\ FOR2 ={$=  year2 1 las_23 "string" 23.23 -2.3 -abcd "\\stringEscaping\"O\"\\"$}
+{$  END  $}
+MORE TEXT\{}:)
